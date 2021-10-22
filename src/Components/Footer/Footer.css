@@ -1,0 +1,19 @@
+.background{
+    background: url("../../Assests/images/blue-gradient-background.png");
+}
+.footer-link a {
+    text-decoration: none;
+    font-size: 18px;
+    color: white;
+    font-weight: bold;
+    line-height: 35px;
+  }
+  .copyright {
+    background-color: #684cfa;
+  }
+  
+  .dropdown-menu.show {
+    left: -126px;
+    padding: 11px;
+  }
+  

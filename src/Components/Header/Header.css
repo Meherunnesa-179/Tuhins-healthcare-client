@@ -1,0 +1,8 @@
+.header{
+    background: url('../../Assests/images/blue-gradient-background.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.logo{
+    border-radius: 50%;
+}

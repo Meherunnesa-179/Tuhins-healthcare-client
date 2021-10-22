@@ -1,0 +1,135 @@
+[
+        {
+            "id" : 1,
+            "name"    : "DR. AFSARI AHMAD",
+            "degree"  : "MBBS, FCPS",
+            "position" : "Consultant",
+            "image"    : "https://i.ibb.co/tYLNHyf/d1.jpg",
+            "time" : "9pm-5pm",
+            "day" : "Sunday-Thursday",
+            "visitingFee" : "1000/-",
+            "about" : "She passed MBBS in 1999 from Sher-E-Bangla Medical College Barisal under University of Dhaka. She did her FCPS in Obstetrics & Gynaecology from Bangladesh College of Physicians & Surgeons (BCPS) in 2009. She also had training in different discipline of Breast feeding, GDM and Colposcopy. She worked in International Medical College, Gazipur as Assistant Professor from 2009 to 2011.  Thereafter she worked in in Hospital as specialist from 2011 and in from 2019 she worked as Associate Consultant in the department of Obstetrics & Gynaecology."
+        },
+        {
+            "id" :2 ,
+            "name"    : "Dr. Nazmul Islam",
+            "degree"  : "MBBS, Diploma in Internal Medicine (UK), MRCP (UK)",
+            "position" : "Senior Consultant – Diabetology & Endocrinology",
+            "image"    : "https://i.ibb.co/xDxv4v2/d2m.jpg",
+            "time" : "9pm-5pm",
+            "day" : "Sunday-Thursday",
+            "visitingFee" : "1000/-",
+            "about" : "Obtained his MBBS from Dhaka Medical College in 1988 worked at NHS UK in Halton General Hospital Cheshire, Kingston General Hospital London, Sandwell District General Hospital Birmingham."
+        },
+        {
+            "id" : 3,
+            "name"    : "Dr Akshay Challani",
+            "degree"  : "MBBS, MRCP, MRCGP, PG Diploma Diabetes and endocrinology",
+            "position" : "General Medicine",
+            "image"    : "https://i.ibb.co/R3rZPbq/d3m.jpg",
+            "time" : "9pm-5pm",
+            "day" : "Sunday-Thursday",
+            "visitingFee" : "1000/-",
+            "about" : "With over 25 years of experience in the field of Interventional Cardiology, he is one of the most experienced physicians in performing Coronary, Carotid and Peripheral Angiogram and Angioplasty through the radial and femoral method. Additionally, he is highly skilled in Intra-cardiac device implantations"
+        },
+        {
+            "id" : 4,
+            "name"    : "Dr Anand Misra",
+            "degree"  : "MBBS, DNB",
+            "position" : "General Medicine",
+            "image"    : "https://i.ibb.co/NZvsjz5/d4m.jpg",
+            "time" : "9pm-5pm",
+            "day" : "Sunday-Thursday",
+            "visitingFee" : "1000/-",
+            "about" : "With over 25 years of experience in the field of Interventional Cardiology, he is one of the most experienced physicians in performing Coronary, Carotid and Peripheral Angiogram and Angioplasty through the radial and femoral method. Additionally, he is highly skilled in Intra-cardiac device implantations"
+        },
+        {
+            "id" : 5,
+            "name"    : "Dr Aswathy Mary James",
+            "degree"  : "",
+            "position" : "Senior Consultant – Anaesthesia",
+            "image"    : "https://i.ibb.co/kK45P7J/d5.jpg",
+            "time" : "9pm-5pm",
+            "day" : "Sunday-Thursday",
+            "visitingFee" : "1000/-",
+            "about" : "With over 25 years of experience in the field of Interventional Cardiology, he is one of the most experienced physicians in performing Coronary, Carotid and Peripheral Angiogram and Angioplasty through the radial and femoral method. Additionally, he is highly skilled in Intra-cardiac device implantations"
+        },
+        {
+            "id" : 6,
+            "name"    : "Dr. Lutful Aziz",
+            "degree"  : "MBBS, PhD (Japan),FCPS",
+            "position" : "Coordinator & Senior Consultant  – Anaesthesia",
+            "image"    : "https://i.ibb.co/tBKM4nF/d6m.jpg",
+            "time" : "9pm-5pm",
+            "day" : "Sunday-Thursday",
+            "visitingFee" : "1000/-",
+            "about" : "With over 25 years of experience in the field of Interventional Cardiology, he is one of the most experienced physicians in performing Coronary, Carotid and Peripheral Angiogram and Angioplasty through the radial and femoral method. Additionally, he is highly skilled in Intra-cardiac device implantations"
+        },
+        {
+            "id" : 7,
+            "name"    : "Dr.Md.Azharul Islam",
+            "degree"  : "MBBS, FCPS (Anesthesiology)",
+            "position" : "Senior Consultant – Anaesthesia",
+            "image"    : "https://i.ibb.co/hK9PG0S/Ajharul-Islam2.jpg",
+            "time" : "9pm-5pm",
+            "day" : "Sunday-Thursday",
+            "visitingFee" : "1000/-",
+            "about" : "With over 25 years of experience in the field of Interventional Cardiology, he is one of the most experienced physicians in performing Coronary, Carotid and Peripheral Angiogram and Angioplasty through the radial and femoral method. Additionally, he is highly skilled in Intra-cardiac device implantations"
+        },
+        {
+            "id" : 8,
+            "name"    : "Dr.Hasina Akhter",
+            "degree"  : "MBBS, FCPS (Anaesthesia)",
+            "position" : "Consultant Medicine",
+            "image"    : "https://i.ibb.co/p3BT4yJ/photo-6.jpg",
+            "time" : "9pm-5pm",
+            "day" : "Sunday-Thursday",
+            "visitingFee" : "1000/-",
+            "about" : "With over 25 years of experience in the field of Interventional Cardiology, he is one of the most experienced physicians in performing Coronary, Carotid and Peripheral Angiogram and Angioplasty through the radial and femoral method. Additionally, he is highly skilled in Intra-cardiac device implantations"
+        },
+        {
+            "id" : 9,
+            "name"    : "Prof. Dr. A. Q. M. Reza",
+            "degree"  : "MBBS, MD (Cardiology)",
+            "position" : "Senior Consultant & Coordinator – Clinical & Interventional Cardiology",
+            "image"    : "https://i.ibb.co/znWR8Ld/M-Reza-9.jpg",
+            "time" : "9pm-5pm",
+            "day" : "Sunday-Thursday",
+            "visitingFee" : "1000/-",
+            "about" : "Prof. Dr. A Q M Reza is renowned in Bangladesh for his expertise in Balloon Valvuloplasty especially Mitral stenosis (PTMC) & Peripheral angioplasty. He has an outstanding performance record in Coronary angioplasty including Primary PCI, Chronic Total Occlusion & multi vessel complex angioplasties for more than 20 years"
+        },
+        {
+            "id" : 10,
+            "name"    : "Prof. Dr. Tamzeed Ahmed",
+            "degree"  : "MBBS, MRCP (UK), FRCP, FACC, FSCAI",
+            "position" : "Senior Consultant – Clinical & Interventional Cardiology",
+            "image"    : "https://i.ibb.co/2tqzMj5/Tamzeed-Ahmed-11.jpg",
+            "time" : "9pm-5pm",
+            "day" : "Sunday-Thursday",
+            "visitingFee" : "1000/-",
+            "about" : "With over 25 years of experience in the field of Interventional Cardiology, he is one of the most experienced physicians in performing Coronary, Carotid and Peripheral Angiogram and Angioplasty through the radial and femoral method. Additionally, he is highly skilled in Intra-cardiac device implantations"
+        },
+        {
+            "id" : 11,
+            "name"    : "Dr. Kazi Mumtaz Huda ",
+            "degree"  : "MBBS, DBST&T, MPH",
+            "position" : "Specialist  – Blood Bank",
+            "image"    : "https://i.ibb.co/FYwqc8V/Kazi-Mumtaj-11.jpg",
+            "time" : "9pm-5pm",
+            "day" : "Sunday-Thursday",
+            "visitingFee" : "1000/-",
+            "about" : "Dr. Kazi Mumtaz Huda, graduated from Chattogram Medical College Hospital (CMCH) in the year 1984. After completing her one-year internship at the CMCH she was posted to a district level government hospital in the Barisal division for two years."
+        },
+        {
+            "id" : 12,
+            "name"    : "Ananth S",
+            "degree"  : "MBBS, FCPS (Anesthesiology)",
+            "position" : "General Medicine",
+            "image"    : "https://i.ibb.co/MfSLzvx/images.jpg",
+            "time" : "9pm-5pm",
+            "day" : "Sunday-Thursday",
+            "visitingFee" : "1000/-",
+            "about" : "Obtained his MBBS from Dhaka Medical College in 1988 worked at NHS UK in Halton General Hospital Cheshire, Kingston General Hospital London, Sandwell District General Hospital Birmingham."
+        }
+
+    ]
